@@ -1,0 +1,8 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯·ôÛ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×ßƒ 
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÓÔï€Å0
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8Ôõç€Å0
+b	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñÌéÑ
