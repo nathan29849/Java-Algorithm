@@ -1,6 +1,4 @@
 
-<
-build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
 X
 (src/main/java/programmers/순서쌍.java,e/f/ef1058379757abc4d033addf8db8662bb9333394
 a
