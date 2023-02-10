@@ -12,6 +12,8 @@ public class CallByValueTest {
 		System.out.println("---after---");
 		System.out.println(x);
 		System.out.println(X);
+//		DayDay d = DayDay.valueOf("월");
+//		System.out.println(d);
 	}
 
 	private static void run(int x) {
